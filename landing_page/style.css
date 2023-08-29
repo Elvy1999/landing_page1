@@ -80,7 +80,6 @@ h3{
   font-size: 30px;
   margin: 0;
   padding-top: 10px;
-  display: inline;
 }
 
 .villians{
@@ -125,13 +124,14 @@ h3{
   color: white;
   margin:0;
   text-align: center;
+  padding-left: 50px;
+
 }
 
 .third_body img{
   width:  150px;
   height: 150px;
   object-fit: cover;
-  padding-bottom: 20px;
 }
 
 
